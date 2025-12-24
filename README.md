@@ -69,7 +69,7 @@ cd Private-Notebook
 pip install PyQt5
 ```
 
----
+
 
 #### 3. Run the Application
 ```bash
